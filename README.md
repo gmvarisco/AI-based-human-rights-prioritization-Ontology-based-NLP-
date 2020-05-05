@@ -1,2 +1,2 @@
-# NLP_SDGs
-AI NLP human rights prioritization
+# AI-based human rights prioritization
+Ontology-based NLP
